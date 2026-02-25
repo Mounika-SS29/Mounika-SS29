@@ -1,47 +1,43 @@
 # Hi, I'm Mounika Koppaka 👋
 
 Ph.D. Student in Statistics & Analytics | Central Michigan University  
-I specialize in statistical modeling, machine learning, and time series forecasting.
+Focused on statistical modeling, machine learning, and data-driven research.
 
 ---
 
-## 🧠 What I Work On
+## 🧠 About Me
 
-- Machine Learning (SVM, Logistic Regression, K-Means, Apriori)
-- Time Series Forecasting (ARIMA, SARIMA, ETS)
-- Statistical Modeling & Hypothesis Testing
-- Data Visualization & Dashboard Development
-- Quantitative Research & Policy Analytics
-
----
-
-## 🛠 Technical Skills
-
-**Languages:**  
-R • SQL • SAS  
-
-**Analytics & ML:**  
-Regression • Cross-Validation • Model Evaluation • ROC/AUC • Forecasting  
-
-**Visualization Tools:**  
-Power BI • Tableau • Excel • JMP • Minitab  
+📚 Master’s in Information Systems (Data Analytics & Project Management)  
+💼 Former SAP Extended Warehouse Management Consultant  
+📊 Graduate Assistant in Applied Statistics & Forecasting  
+🗂️ Experience in digitization and data quality improvement at Clarke Historical Library  
+🌱 Currently deepening expertise in advanced forecasting and machine learning techniques  
 
 ---
 
-## 📊 Featured Projects
+## 🧰 Languages & Tools
 
-**Michigan Housing Market Forecasting**  
-Time series modeling using ARIMA and economic indicators.
+**Programming:**  
+R • SAS • SQL  
 
-**Breast Cancer Classification**  
-SVM and Logistic Regression with 98%+ accuracy.
+**Analytics & Modeling:**  
+Regression • Time Series • ARIMA • SVM • Logistic Regression • K-Means • Apriori  
 
-**Customer Segmentation & Market Basket Analysis**  
-K-Means clustering and Apriori association rule mining.
+**Visualization & BI:**  
+Tableau • Power BI • Minitab • Excel  
 
 ---
 
-## 📫 Connect
+## 📊 Research & Projects
+
+🔹 Time Series Forecasting & Economic Trend Analysis  
+🔹 Breast Cancer Classification using Machine Learning  
+🔹 Customer Segmentation & Market Basket Analysis  
+🔹 Regional Socioeconomic Dashboard Development  
+
+---
+
+## 📫 Connect With Me
 
 LinkedIn: https://linkedin.com/in/mk2912  
 Email: mouni1k@cmich.edu
