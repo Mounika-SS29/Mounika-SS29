@@ -18,7 +18,7 @@ Focused on statistical modeling, machine learning, and data-driven research.
 ## 🧰 Languages & Tools
 
 **Programming:**  
-R • SAS • SQL  
+R • SAS • SQL • Python
 
 **Analytics & Modeling:**  
 Regression • Time Series • ARIMA • SVM • Logistic Regression • K-Means • Apriori  
