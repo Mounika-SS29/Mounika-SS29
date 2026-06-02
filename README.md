@@ -1,7 +1,6 @@
 # Hi, I'm Mounika Koppaka 👋
 
-Ph.D. Student in Statistics & Analytics | Central Michigan University  
-Focused on statistical modeling, machine learning, and data-driven research.
+Ph.D. Student in Statistics & Analytics | R, SAS, SQL, Python, Power BI | Statistical Modeling, Forecasting, Machine Learning & Healthcare Analytics.
 
 ---
 
